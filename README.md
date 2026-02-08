@@ -51,7 +51,7 @@ Simply open the `index.html` file in your web browser.
 
 ---
 
-## 📌 Usage
+# 📌 Usage
 
 1. Select the desired password length.
 2. Click on the **Generate** button.
@@ -60,5 +60,4 @@ Simply open the `index.html` file in your web browser.
 
 ---
  
-
-Just say 😄
+ 
