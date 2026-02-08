@@ -2,7 +2,7 @@
 
 A lightweight and user-friendly **web-based password generator** that helps users create **secure and random passwords** instantly. The application allows users to select the desired password length, switch between **dark and light themes**, and **copy generated passwords** with a single click.
 
----
+
 
 ## 🚀 Features
 
@@ -12,7 +12,7 @@ A lightweight and user-friendly **web-based password generator** that helps user
 * One-click **copy to clipboard**
 * Clean and responsive user interface
 
----
+
 
 ## 🌐 Demo
 
