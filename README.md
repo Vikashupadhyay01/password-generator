@@ -17,9 +17,9 @@ A lightweight and user-friendly **web-based password generator** that helps user
 ## 🌐 Demo
 
 You can view the live demonstration of this project here
-<a href="file:///C:/Users/Asus/Desktop/password%20generator/index.html">
+*<a href="file:///C:/Users/Asus/Desktop/password%20generator/index.html">
 Open Password Generator
-</a>
+</a>*
 
 
 
