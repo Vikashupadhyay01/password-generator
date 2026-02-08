@@ -19,7 +19,7 @@ A lightweight and user-friendly **web-based password generator** that helps user
 You can view the live demonstration of this project here:
 👉 *(Add your live demo link)*
 
----
+
 
 ## ⚙️ Installation & Setup
 
@@ -41,7 +41,7 @@ cd password-generator
 
 Simply open the `index.html` file in your web browser.
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -49,7 +49,7 @@ Simply open the `index.html` file in your web browser.
 * CSS
 * JavaScript
 
----
+
 
 # 📌 Usage
 
@@ -58,6 +58,6 @@ Simply open the `index.html` file in your web browser.
 3. Use the **Copy** button to copy the password.
 4. Toggle **Dark / Light mode** for better visibility.
 
----
+
  
  
