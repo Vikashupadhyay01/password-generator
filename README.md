@@ -1,10 +1,4 @@
-Got it 👍 You want **a similar project description/write-up**, but **NOT copied from this one** — written in your own words.
-
-Here is a **clean, original version** you can directly use in your **README / project documentation**:
-
----
-
-# 🔐 Password Generator
+ # 🔐 Password Generator
 
 A lightweight and user-friendly **web-based password generator** that helps users create **secure and random passwords** instantly. The application allows users to select the desired password length, switch between **dark and light themes**, and **copy generated passwords** with a single click.
 
